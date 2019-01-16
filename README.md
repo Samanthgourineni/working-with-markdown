@@ -91,3 +91,7 @@ dcase@nwmissouri.edu
 ## initial changes
 
 Web-Apps 
+
+## ACS Image
+
+![Hosted image](https://www.google.com/search?q=northwest+missouri+acs+image&rlz=1C1GCEB_enUS831US831&tbm=isch&source=iu&ictx=1&fir=siATGzuiY9n4QM%253A%252CGewU-M3Qs6hybM%252C_&usg=AI4_-kR-Xx-zf-LDpy0uNMhY_fzQLa4chA&sa=X&ved=2ahUKEwihn_6w3vLfAhVODq0KHekbCzgQ9QEwAHoECAAQBA#imgrc=siATGzuiY9n4QM: "ACS Image")
