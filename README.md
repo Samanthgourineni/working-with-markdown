@@ -94,4 +94,4 @@ Web-Apps
 
 ## ACS Image
 
-![Hosted image](https://foswiki.org/pub/Extensions/ImagePlugin/Westminstpalace.jpg "Image")
+![Hosted image](https://foswiki.org/pub/Extensions/ImagePlugin/InstagramExamples.jpeg "Image")
