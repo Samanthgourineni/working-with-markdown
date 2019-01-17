@@ -88,7 +88,7 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## initial changes
+## Initial changes
 
 Web-Apps 
 
